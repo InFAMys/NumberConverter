@@ -4,7 +4,7 @@ Convert Number To Binary, Octal, Hexadecimal and Decimal
 
 ## Installation
 
-Run first :
+First Run :
 
 ```bash
 npm install
